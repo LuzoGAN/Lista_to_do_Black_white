@@ -1,5 +1,5 @@
 ﻿annotated-types==0.5.0
-anyio==4.0.0
+anyio==3.7.1
 certifi==2023.7.22
 colorama==0.4.6
 copier==8.3.0
