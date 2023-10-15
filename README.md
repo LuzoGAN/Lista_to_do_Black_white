@@ -1,8 +1,8 @@
 ![listatodo](https://github.com/LuzoGAN/Lista_to_do_Black_white/assets/28062741/4b4214c7-611c-4b6d-8259-9fd9af389bd3)
 
-# Análise de vendas de um call center
+# Lista ToDo
 
-Dashboard para análise de um callcenter
+Lista ToDo online
 
 ## 💻 Projeto
 
